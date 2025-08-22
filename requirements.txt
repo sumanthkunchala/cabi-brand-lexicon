@@ -1,1 +1,2 @@
+pymupdf>=1.22.5,<2.0.0  # PDF text extraction
 
