@@ -1,0 +1,41 @@
+{
+  "meta": { "version": "seed-1", "source": "manual seed" },
+  "global": {
+    "brand_phrases": [
+      "effortless layers","polished essentials","week-to-weekend","color story","textural mix",
+      "tailored meets relaxed","versatile capsule","style with ease","clean finish","capsule dressing"
+    ],
+    "flair": ["refined finish","luxe touch","sleek contour","tailored fit","polished edge","silky drape","plush hand"]
+  },
+  "collections": {
+    "Fall Edit": {
+      "brand_phrases": ["layering edit","soft structure","bold neutrals","modern romance"],
+      "flair": ["buttery leather","sculpted knit","burnished neutral","tailored wool","polished trench"]
+    },
+    "Holiday Edit": {
+      "brand_phrases": ["evening polish","quiet shine","day-to-night"],
+      "flair": ["velvet touch","satin sheen","clean sparkle","gilded detail"]
+    },
+    "Spring Edit": {
+      "brand_phrases": ["fresh palette","light layers"],
+      "flair": ["airy drape","crisp poplin","soft pastel","light layering"]
+    },
+    "Summer Edit": {
+      "brand_phrases": ["breezy layers","clean white"],
+      "flair": ["sunlit linen","breezy cotton","sleek white","easy sand tone","feather-light feel"]
+    },
+    "Everyday Essentials": {
+      "brand_phrases": ["polished everyday","timeless basics"],
+      "flair": ["refined staple","clean line","wear-now piece"]
+    },
+    "Just In": {
+      "brand_phrases": ["latest edit","new drop"],
+      "flair": ["new arrival","fresh drop","latest cut","now trending","just landed"]
+    }
+  },
+  "tones": {
+    "luxe": { "brand_phrases": ["confidence-first"], "flair": ["signature polish","private edit"] },
+    "modern": { "brand_phrases": ["clean finish"], "flair": ["streamlined line","sleek contour"] },
+    "romantic": { "brand_phrases": ["modern romance"], "flair": ["soft drape","gentle shimmer"] }
+  }
+}
